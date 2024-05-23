@@ -1,0 +1,7 @@
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\obj\Debug\Tarea4-Estructura de Datos.csproj.AssemblyReference.cache
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\obj\Debug\Tarea4-Estructura de Datos.csproj.CoreCompileInputs.cache
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\bin\Debug\Tarea4-Estructura de Datos.exe.config
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\bin\Debug\Tarea4-Estructura de Datos.exe
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\bin\Debug\Tarea4-Estructura de Datos.pdb
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\obj\Debug\Tarea4-Estructura de Datos.exe
+C:\Users\KEVINJOSUERAMOSMOREN\OneDrive - Universidad Tecnologica Centroamericana\Escritorio\Tarea#4-Estructura de Datos\Tarea4-Estructura de Datos\Tarea4-Estructura de Datos\obj\Debug\Tarea4-Estructura de Datos.pdb
